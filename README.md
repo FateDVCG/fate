@@ -1,0 +1,2 @@
+# fate
+Discord AI agent
